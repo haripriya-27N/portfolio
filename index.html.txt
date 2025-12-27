@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Haripriya N | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Haripriya N</h1>
+    <p>CSE Student</p>
+</header>
+
+<nav>
+    <a href="#about">Profile</a>
+    <a href="#education">Education</a>
+    <a href="#skills">Skills</a>
+    <a href="#certifications">Certifications</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <h2>Profile</h2>
+    <p>
+        Motivated and dedicated Computer Science Engineering student seeking
+        opportunities to enhance technical skills, gain industry exposure,
+        and contribute effectively to software development projects.
+    </p>
+</section>
+
+<section id="education">
+    <h2>Education</h2>
+    <p><strong>Bachelor of Engineering – Computer Science and Engineering</strong></p>
+    <p>Bannari Amman Institute of Technology</p>
+    <p>Batch: 2024 – 2028</p>
+    <p>Current CGPA: 7.2 / 10</p>
+</section>
+
+<section id="skills">
+    <h2>Skills</h2>
+    <div class="skills">
+        <span>Problem Solving</span>
+        <span>SQL (Basic)</span>
+        <span>Python (Basic)</span>
+        <span>C Programming</span>
+        <span>Communication</span>
+        <span>Teamwork</span>
+    </div>
+</section>
+
+<section id="certifications">
+    <h2>Certifications & Courses</h2>
+    <ul>
+        <li>NPTEL – Programming in C (Ongoing)</li>
+        <li>Online Python Programming Course</li>
+    </ul>
+</section>
+
+<section id="languages">
+    <h2>Languages Known</h2>
+    <p>English (Fluent), Tamil, Telugu</p>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <p>📧 haripriyan.cs24@bitsathy.ac.in</p>
+    <p>📍 Coimbatore</p>
+    <p>🔗 LinkedIn: 
+        <a href="https://www.linkedin.com/in/haripriya-n-762446339" target="_blank">
+            View Profile
+        </a>
+    </p>
+</section>
+
+<footer>
+    <p>© 2025 Haripriya N</p>
+</footer>
+
+</body>
+</html>
